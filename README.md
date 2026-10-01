@@ -8,6 +8,11 @@ Flight Delay Predictive Modeling & Classification System
 * **Accuracy Score, precision_score and recall_score** (Metrics and score)
 * **Matplotlib and Seaborn** (Visualization)
 ---
+# Dataset Source
+The dataset used for this projects contains contain flight information. You can find the original dataset on:
+https://www.kaggle.com/datasets/mahoora00135/flights?resource=download
+
+---
 ## Sample Visualizations
 <img width="557" height="453" alt="download" src="https://github.com/user-attachments/assets/9b25a193-df2b-43cb-b210-4c5be85d410b" />
 
