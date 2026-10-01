@@ -7,5 +7,6 @@ Flight Delay Predictive Modeling & Classification System
 * **Accuracy Score, precision_score and recall_score** (Metrics and score)
 ---
 ## Sample Visualizations
-Actual vs Prediction air traffic data
 <img width="557" height="453" alt="download" src="https://github.com/user-attachments/assets/9b25a193-df2b-43cb-b210-4c5be85d410b" />
+
+<img width="638" height="433" alt="download" src="https://github.com/user-attachments/assets/f9e2cdc2-cbd9-4115-a4e2-4faee5190f63" />
