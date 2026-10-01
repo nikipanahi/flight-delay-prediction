@@ -1,4 +1,4 @@
-# Flight Delay Prediction
+# Flight Delay Prediction with 0.90 accuracy score
 Flight Delay Predictive Modeling & Classification System
 ## Tools & Libraries
 * **Python**
