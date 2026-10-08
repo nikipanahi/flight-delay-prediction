@@ -1,4 +1,4 @@
-# Flight delay prediction with 0.90 Accuracy Score and live app
+# Flight delay prediction with 0.90 Accuracy Score
 ## Tools and Libraries
 * **Pandas: https://pypi.org/project/pandas/**
 * **Streamlit: https://streamlit.io/**
