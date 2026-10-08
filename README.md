@@ -12,7 +12,8 @@ https://flight-delay-prediction-cx.streamlit.app
 
 ----
 ## Sample Visualization
-<img width="557" height="453" alt="download" src="https://github.com/user-attachments/assets/89a84e07-4d39-442a-b33e-9ed47f3fe0f9" />
+<img width="557" height="453" alt="download" src="https://github.com/user-attachments/assets/dc7911cb-28dd-4f3a-9fc8-34e12d158938" />
+
 
 <img width="638" height="433" alt="download" src="https://github.com/user-attachments/assets/141225dd-b9ab-4c85-8bcb-e357262e1b09" />
 
