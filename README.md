@@ -5,7 +5,7 @@
 * **Joblib: https://pypi.org/project/joblib/**
 * **Matplotlib: https://matplotlib.org/**
 ----
-## Stremlit App
+## Stremlit Application
 Use my app to predict your flight delay prediction:
 
 https://flight-delay-prediction-cx.streamlit.app
