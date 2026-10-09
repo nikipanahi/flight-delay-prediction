@@ -1,5 +1,5 @@
 # Flight delay prediction with 0.90 Accuracy Score
-## Tools and Libraries
+## Libraries
 * **Pandas**
 * **Numoy**
 * **Model_selection**
