@@ -1,8 +1,12 @@
 # Flight delay prediction with 0.90 Accuracy Score
 ## Tools and Libraries
-* **Pandas: https://pypi.org/project/pandas/**
-* **Streamlit: https://streamlit.io/**
-* **Matplotlib: https://matplotlib.org/**
+* **Pandas**
+* **Numoy**
+* **Model_selection**
+* **RandomForestClassifier**
+* **Metrics**
+* **Streamlit**
+* **Matplotlib**
 ----
 ## Sample Visualization
 <img width="557" height="453" alt="download" src="https://github.com/user-attachments/assets/dc7911cb-28dd-4f3a-9fc8-34e12d158938" />
